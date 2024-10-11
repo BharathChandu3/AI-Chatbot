@@ -18,7 +18,7 @@ This project is a web-based chatbot interface that allows users to input message
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository_url>](https://github.com/BharathChandu3/AI-Chatbot.git)
+   git clone https://github.com/BharathChandu3/AI-Chatbot.git
    cd <repository_name>
 # Chatbot UI with Google Custom Search Integration
 
