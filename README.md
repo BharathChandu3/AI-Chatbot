@@ -20,7 +20,7 @@ This project is a web-based chatbot interface that allows users to input message
    ```bash
    git clone https://github.com/BharathChandu3/AI-Chatbot.git
    cd <repository_name>
-# Chatbot UI with Google Custom Search Integration
+
 
 ## Google Custom Search Setup:
 1. **Create a project in the Google Developer Console**.
